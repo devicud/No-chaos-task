@@ -1,4 +1,4 @@
-const prompt = require ("prompt-sync")();
+ const prompt = require ("prompt-sync")();
 word = prompt ("Enter word: ");
 reverseWord = ""
 for (character of word){
